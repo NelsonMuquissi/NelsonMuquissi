@@ -6,7 +6,7 @@
 
 ![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMuquissi&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso
+## Tecnologias que tenho utilizado
 
 <div style="display: inline-block"></br>
       <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
