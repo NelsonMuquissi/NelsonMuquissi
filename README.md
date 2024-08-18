@@ -21,6 +21,8 @@
 Eu sou um entusiasta em tecnologias e projetos capazes de resolver grandes problemas que abrangem a sociedade.
 
 ## Email:
-
 emelsonmuquissi@gmail.com
+
+## Linkedin:
+https://www.linkedin.com/in/nelson-muquissi-58045a262/
 
