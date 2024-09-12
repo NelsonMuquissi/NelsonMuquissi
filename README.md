@@ -1,4 +1,4 @@
-### Olá! Eu sou o Nelson Muquissi 🖐
+### Hello! I am Nelson Muquissi 🖐
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nelsonmuquissi.muquissi)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emelson-muquissi-58045a262)
@@ -6,7 +6,7 @@
 
 ![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMuquissi&show_icons=true&theme=dracula)
 
-## Tecnologias que tenho utilizado
+## Technologies i have used
 
 <div style="display: inline-block"></br>
       <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,9 +18,9 @@
       <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img align="center" alt="MySql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br></br>
-Eu sou um entusiasta em tecnologias e projetos capazes de resolver grandes problemas que abrangem a sociedade.
+I am passionate about technologies and projects capable of solving major problems that affect society.
 
-## Email:
+## E-mail:
 emelsonmuquissi@gmail.com
 
 ## Linkedin:
