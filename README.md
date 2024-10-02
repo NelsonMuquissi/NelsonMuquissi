@@ -1,7 +1,6 @@
 ### Hello! I am Nelson Muquissi 🖐
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nelsonmuquissi.muquissi)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emelson-muquissi-58045a262)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/n_muquissi)
 
 ![Nelson GitHub stats](https://github-readme-stats.vercel.app/api?username=NelsonMuquissi&show_icons=true&theme=dracula)
